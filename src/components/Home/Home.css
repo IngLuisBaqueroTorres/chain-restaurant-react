@@ -1,0 +1,19 @@
+img {
+    border-radius: 10px;
+    width: 80%;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: Quicksand, sans-serif;
+    line-height: 1em;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 80px;
+}
+
+p {
+    font-size: 1em;
+    padding-left: 80px;
+    text-align: justify;
+}

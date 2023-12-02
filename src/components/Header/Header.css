@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 80px 50px;
+    background-color: #ffffff;
+    color: #ffffff;
+  }
+  
+  .logo-container {
+    justify-content: flex-start;
+  }
+  
+  .logo {
+    max-width: 80px; 
+  }
+  
+  .menu {
+    display: flex;
+  }
+  
+  .menu ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu li {
+    margin-right: 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: #fd1e1e;
+    font-weight: bold;
+    font-size: 13px;
+  }
+  
+  .menu a:hover {
+    border-bottom: 2px solid #000000; /* Añade un borde inferior al hacer hover sobre los elementos del menú */
+  }
+  

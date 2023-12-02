@@ -1,0 +1,14 @@
+{
+  "header": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "places": "Places",
+    "buttonTranslate": "ES"
+  },
+
+  "home": {
+    "title": "Here goes the title for the home component",
+    "content": "Here goes the content for this component. It is simply filler text for printing presses and text files. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a textbook specimen. Not only 500 survived "
+  }
+}
