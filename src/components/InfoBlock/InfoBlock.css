@@ -1,0 +1,32 @@
+.block {
+    display: flex;
+    flex-direction: row;
+    background-color: #009933;
+  }
+  
+  .quantity,
+  .customers,
+  .ratings {
+    width: 50%;
+  }
+  
+  .title {
+    font-size: 1.2em;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .value {
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+  }
+
+  h3 {
+    font-size: 2em;
+    margin-bottom: 1px;
+  }
+  div {
+    padding-bottom: 15px;
+  }
+  

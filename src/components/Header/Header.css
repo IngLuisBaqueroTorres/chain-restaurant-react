@@ -2,9 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 40px 80px 50px;
+    padding: 20px 80px 1px;
     background-color: #ffffff;
     color: #ffffff;
+    margin-bottom: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
   }
   
   .logo-container {
@@ -17,6 +22,7 @@
   
   .menu {
     display: flex;
+    margin-right: 150px;
   }
   
   .menu ul {
@@ -38,6 +44,6 @@
   }
   
   .menu a:hover {
-    border-bottom: 2px solid #000000; /* Añade un borde inferior al hacer hover sobre los elementos del menú */
+    border-bottom: 2px solid #000000; 
   }
   
